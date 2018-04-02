@@ -1,0 +1,19 @@
+Hello everyone, I have an idea for the collaborative Project!!
+    Why don't we create a website for an unknown school/university, with pages like
+    1. Home,
+    2. About us,
+    3. Contact Us
+    4. Student login page (no backend - when user clicks should be navigated to page)
+    5. Teacher login
+    6. Admin login
+    7. Results page
+    8. Page to download/link on various student contents, like course materials and youtube videos.
+    9. New student registration.
+    10. Festzone and newsletter.
+    11. Forms for collecting feedback.
+    12. can also add cookies features.
+    We can have a bootstrap carousal element for scroll bar which displays pictures.
+    A hit-list for how many time the page has been visited.
+    We dont need backend for this, only proper navigation and error messages should be displayed correctly.
+    We can use all the tags and context that we learnt till now. 
+    It is an old idea, but I think it will be good for collaborating with lots of students, we can also keep adding new features as well.
